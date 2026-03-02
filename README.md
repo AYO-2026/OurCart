@@ -1,2 +1,12 @@
-# OurCart
-SharedCart is a mobile application designed for real-time synchronization and management of shopping lists within groups (families, roommates, or colleagues). This project is being developed as part of the "Programming for Mobile Platforms" course as a team assignment.
+# Our Cart
+
+## Про проєкт
+Our Cart — це мобільний застосунок для спільного керування списками покупок у реальному часі. Проєкт розробляється в межах навчального курсу «Програмування для мобільних платформ».
+
+## Основний функціонал
+* Створення та керування спільними списками покупок.
+* Додавання, редагування та видалення товарів у списку.
+* Синхронізація даних між декількома пристроями учасників.
+
+### Стек технологій
+* **Мова програмування:** Java (Android).
