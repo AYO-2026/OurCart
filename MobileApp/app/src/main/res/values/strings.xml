@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">OurCart</string>
+
+    <string-array name="unit_array">
+        <item>KG</item>
+        <item>LITER</item>
+        <item>PIECE</item>
+        <item>GRAM</item>
+        <item>MILLILITER</item>
+    </string-array>
 </resources>
