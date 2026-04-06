@@ -1,15 +1,21 @@
+# Android Studio / IntelliJ
 *.iml
-.gradle
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
-.DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
+.idea/
+.gradle/
+
+# Конфігурації
 local.properties
+
+# Зібрані файли
+build/
+*/build/
+/captures/
+
+# Файли C++
+.externalNativeBuild/
+.cxx/
+
+# Файли безпеки та ключі
+*.jks
+*.keystore
+key.properties
